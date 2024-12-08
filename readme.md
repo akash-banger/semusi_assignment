@@ -1,5 +1,11 @@
 # Gait Analysis and Person Identification System
 
+### Git URL
+
+```bash
+git clone https://github.com/akash-banger/semusi_assignment.git
+```
+
 A sophisticated biometric system that identifies individuals based on their unique walking patterns (gait) using sensor data from multiple body locations.
 
 ## Overview
