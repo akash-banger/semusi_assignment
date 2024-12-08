@@ -36,9 +36,24 @@ This system uses machine learning and signal processing techniques to analyze ga
 
 ### Prerequisites
 
+create a new virtual environment
 
 ```bash
-pip install pandas numpy scipy scikit-learn dtaidistance sqlalchemy faker
+python -m venv gait_env
+```
+
+install the dependencies
+
+activate the virtual environment
+
+```bash
+source gait_env/bin/activate
+```
+
+install the dependencies
+
+```bash
+pip install -r requirements.txt
 ```
 
 ### Database Configuration
