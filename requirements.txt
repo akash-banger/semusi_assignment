@@ -1,0 +1,6 @@
+scikit-learn
+psycopg2-binary
+pandas
+dtaidistance
+sqlalchemy
+faker
